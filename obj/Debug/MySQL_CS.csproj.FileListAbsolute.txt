@@ -1,0 +1,13 @@
+C:\Users\Oleksii\source\repos\MySQL_CS\bin\Debug\TestDB.mdf
+C:\Users\Oleksii\source\repos\MySQL_CS\bin\Debug\TestDB_log.ldf
+C:\Users\Oleksii\source\repos\MySQL_CS\bin\Debug\MySQL_CS.exe.config
+C:\Users\Oleksii\source\repos\MySQL_CS\bin\Debug\MySQL_CS.exe
+C:\Users\Oleksii\source\repos\MySQL_CS\bin\Debug\MySQL_CS.pdb
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.csproj.AssemblyReference.cache
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.Form1.resources
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.Properties.Resources.resources
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.csproj.GenerateResource.cache
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.exe
+C:\Users\Oleksii\source\repos\MySQL_CS\obj\Debug\MySQL_CS.pdb
